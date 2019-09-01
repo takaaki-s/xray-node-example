@@ -1,0 +1,4 @@
+node_modules
+aws.env
+db-data
+.aws/

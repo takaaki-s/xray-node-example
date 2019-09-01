@@ -1,0 +1,9 @@
+{
+  "dev": {
+    "host": "db",
+    "driver": "mysql",
+    "user": "root",
+    "password": "password",
+    "database": "xray_example"
+  }
+}
